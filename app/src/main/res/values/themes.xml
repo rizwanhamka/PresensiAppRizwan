@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pertemuan6" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#525CFF</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorControlActivated">#3d3cff</item>
+    </style>
+
+
+    <style name="Theme.Pertemuan6" parent="Base.Theme.Pertemuan6" />
+</resources>

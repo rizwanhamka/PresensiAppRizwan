@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Modul 6</string>
+    <string name="title">Presensi</string>
+    <string name="submit">Submit</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="exit">Exit</string>
+
+    <array name="month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </array>
+    <array name="kehadiranlist">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
